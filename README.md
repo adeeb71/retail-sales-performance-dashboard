@@ -1,7 +1,7 @@
 # Retail Sales Performance Dashboard
 
 ## Project Overview
-An interactive retail sales analysis project built using Google Sheets. The project focuses on analyzing sales performance, comparing revenue against targets, and identifying business insights from a sample retail dataset.
+Retail sales analysis project built using Google Sheets. The project focuses on analyzing sales performance, comparing revenue against targets, and identifying business insights from a sample retail dataset.
 
 ## Tools Used
 - Google Sheets
